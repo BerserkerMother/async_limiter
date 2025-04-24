@@ -24,5 +24,3 @@
 mod limiter;
 
 pub use limiter::{RateLimiter, Waiter};
-
-async fn example() {}
